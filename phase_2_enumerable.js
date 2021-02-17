@@ -31,12 +31,12 @@ Array.prototype.myReduce = function(callback, initialvalue = 0){
 
 
 
-function add(num){console.log(num)}
-[1, 2, 3].myEach(function add(num) { console.log(num) })
+// function add(num){console.log(num)}
+// [1, 2, 3].myEach(function add(num) { console.log(num) })
 
-def my_map(&prc)
-    arr =[]
-    self.each do |ele|
-        arr << prc.call(ele)
-    end
-end
+// def my_map(&prc)
+//     arr =[]
+//     self.each do |ele|
+//         arr << prc.call(ele)
+//     end
+// end
